@@ -4,14 +4,14 @@ I'm Arash, a Troublelshooting Expert/ Business Analyst/ Electronics Engineer pas
 
 About Me ℹ️
 
->🌍 Oulu, Finland
->
->🌱 I’m currently learning Business Analysis
->
->🎓 Electronics Engineer | Mechatronics Engineer | Business Analytics
->
->💻 Python, C, MATLAB | Embedded Electronics, Machine Learning, Data Analysis
+🌍 Oulu, Finland
+
+🌱 I’m currently learning Business Analysis
+
+🎓 Electronics Engineer | Mechatronics Engineer | Business Analytics
+
+💻 Python, C, MATLAB | Embedded Electronics, Machine Learning, Data Analysis
 
 Let's Connect! 🤝
 
-LinkedIn: https://www.linkedin.com/in/arash-nedaei/
+[my LinkedIn](https://www.linkedin.com/in/arash-nedaei/)
