@@ -10,7 +10,7 @@ About Me ℹ️
 >
 >🎓 Electronics Engineer | Mechatronics Engineer | Business Analytics
 >
->💻 Python, C, MATLAB | Machine Learning, Data Analysis
+>💻 Python, C, MATLAB | Embedded Electronics, Machine Learning, Data Analysis
 
 Let's Connect! 🤝
 
