@@ -8,7 +8,7 @@ About Me ℹ️
 
 🌱 I’m currently learning Business Analysis
 
-🎓 Electronics Engineer | Mechatronics Engineer | Business Analytics
+🎓 Electronics Engineer | Mechatronics Engineer | Business Analyst
 
 💻 Python, C, MATLAB | Embedded Electronics, Machine Learning, Data Analysis
 
