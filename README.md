@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Arash, a Troublelshooting Expert/ Business Analyst/ Electronics Engineer passionate about DATA. Welcome to my GitHub profile!
+I'm Arash, a Troubleshooting Expert/ Business Analyst/ Electronics Engineer passionate about DATA. Welcome to my GitHub profile!
 
 About Me ℹ️
 
